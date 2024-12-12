@@ -1,11 +1,11 @@
 dan@gh: ~$ whoami
 
-blah blah blah
+just zis guy, you know?
 
 dan@gh: ~$ ls
 
 link to goodreads, chess.com
 
-dan@gh: ~$
+dan@gh: ~$ pgp --list-users
 
-you
+Dan N <dan.j.bednarski@gamil.com>
