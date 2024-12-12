@@ -8,4 +8,4 @@ link to goodreads, chess.com
 
 dan@gh: ~$ pgp --list-users
 
-Dan N <dan.j.bednarski@gamil.com>
+<dan.j.bednarski@gamil.com> (say hi)
