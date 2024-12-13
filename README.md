@@ -1,11 +1,1 @@
-dan@gh: ~$ whoami
-
-just zis guy, you know?
-
-dan@gh: ~$ ls
-
-link to goodreads, chess.com
-
-dan@gh: ~$ pgp --list-users
-
-<dan.j.bednarski@gamil.com> (say hi)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=010303F0&multiline=true&width=435&lines=init+1+dani-os....;%24+whoami;config+file+literary+icon;sudo+su;DENIED+(u+in+my+house))](https://git.io/typing-svg)
